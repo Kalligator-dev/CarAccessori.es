@@ -1,4 +1,8 @@
-# caraccessori.es
+# CarAccessori.es
+A simple e-commerce front-end project for practice. Made using Vue3, Vuex, Vue-router, JS, HTML, CSS.
+
+## Demo
+https://caraccessori.es/
 
 ## Project setup
 ```
